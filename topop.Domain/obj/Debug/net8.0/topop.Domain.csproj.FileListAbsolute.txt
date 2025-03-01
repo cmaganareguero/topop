@@ -1,0 +1,11 @@
+C:\Users\conxy\OneDrive\Desktop\top\topop\topop-solution\topop.Domain\bin\Debug\net8.0\topop.Domain.deps.json
+C:\Users\conxy\OneDrive\Desktop\top\topop\topop-solution\topop.Domain\bin\Debug\net8.0\topop.Domain.dll
+C:\Users\conxy\OneDrive\Desktop\top\topop\topop-solution\topop.Domain\bin\Debug\net8.0\topop.Domain.pdb
+C:\Users\conxy\OneDrive\Desktop\top\topop\topop-solution\topop.Domain\obj\Debug\net8.0\topop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conxy\OneDrive\Desktop\top\topop\topop-solution\topop.Domain\obj\Debug\net8.0\topop.Domain.AssemblyInfoInputs.cache
+C:\Users\conxy\OneDrive\Desktop\top\topop\topop-solution\topop.Domain\obj\Debug\net8.0\topop.Domain.AssemblyInfo.cs
+C:\Users\conxy\OneDrive\Desktop\top\topop\topop-solution\topop.Domain\obj\Debug\net8.0\topop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\conxy\OneDrive\Desktop\top\topop\topop-solution\topop.Domain\obj\Debug\net8.0\topop.Domain.dll
+C:\Users\conxy\OneDrive\Desktop\top\topop\topop-solution\topop.Domain\obj\Debug\net8.0\refint\topop.Domain.dll
+C:\Users\conxy\OneDrive\Desktop\top\topop\topop-solution\topop.Domain\obj\Debug\net8.0\topop.Domain.pdb
+C:\Users\conxy\OneDrive\Desktop\top\topop\topop-solution\topop.Domain\obj\Debug\net8.0\ref\topop.Domain.dll

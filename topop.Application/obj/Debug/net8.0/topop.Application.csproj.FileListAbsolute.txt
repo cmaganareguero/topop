@@ -1,0 +1,17 @@
+C:\Users\conxy\OneDrive\Desktop\top\topop\topop-solution\topop.Application\bin\Debug\net8.0\topop.Application.deps.json
+C:\Users\conxy\OneDrive\Desktop\top\topop\topop-solution\topop.Application\bin\Debug\net8.0\topop.Application.dll
+C:\Users\conxy\OneDrive\Desktop\top\topop\topop-solution\topop.Application\bin\Debug\net8.0\topop.Application.pdb
+C:\Users\conxy\OneDrive\Desktop\top\topop\topop-solution\topop.Application\obj\Debug\net8.0\topop.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conxy\OneDrive\Desktop\top\topop\topop-solution\topop.Application\obj\Debug\net8.0\topop.Application.AssemblyInfoInputs.cache
+C:\Users\conxy\OneDrive\Desktop\top\topop\topop-solution\topop.Application\obj\Debug\net8.0\topop.Application.AssemblyInfo.cs
+C:\Users\conxy\OneDrive\Desktop\top\topop\topop-solution\topop.Application\obj\Debug\net8.0\topop.Application.csproj.CoreCompileInputs.cache
+C:\Users\conxy\OneDrive\Desktop\top\topop\topop-solution\topop.Application\obj\Debug\net8.0\topop.Application.dll
+C:\Users\conxy\OneDrive\Desktop\top\topop\topop-solution\topop.Application\obj\Debug\net8.0\refint\topop.Application.dll
+C:\Users\conxy\OneDrive\Desktop\top\topop\topop-solution\topop.Application\obj\Debug\net8.0\topop.Application.pdb
+C:\Users\conxy\OneDrive\Desktop\top\topop\topop-solution\topop.Application\obj\Debug\net8.0\ref\topop.Application.dll
+C:\Users\conxy\OneDrive\Desktop\top\topop\topop-solution\topop.Application\obj\Debug\net8.0\topop.Application.csproj.AssemblyReference.cache
+C:\Users\conxy\OneDrive\Desktop\top\topop\topop-solution\topop.Application\bin\Debug\net8.0\topop.Domain.dll
+C:\Users\conxy\OneDrive\Desktop\top\topop\topop-solution\topop.Application\bin\Debug\net8.0\topop.Infrastructure.dll
+C:\Users\conxy\OneDrive\Desktop\top\topop\topop-solution\topop.Application\bin\Debug\net8.0\topop.Domain.pdb
+C:\Users\conxy\OneDrive\Desktop\top\topop\topop-solution\topop.Application\bin\Debug\net8.0\topop.Infrastructure.pdb
+C:\Users\conxy\OneDrive\Desktop\top\topop\topop-solution\topop.Application\obj\Debug\net8.0\topop.Ap.665B39EA.Up2Date

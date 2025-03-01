@@ -1,0 +1,6 @@
+@topop.API_HostAddress = http://localhost:5063
+
+GET {{topop.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

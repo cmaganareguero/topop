@@ -1,0 +1,101 @@
+[
+  {
+    "ContainingType": "topop.API.Controllers.Imp.VideoController",
+    "Method": "GetAll",
+    "RelativePath": "api/Video",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[topop.Application.Dtos.GetVideoDto, topop.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "topop.API.Controllers.Imp.VideoController",
+    "Method": "Add",
+    "RelativePath": "api/Video",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "videoDTO",
+        "Type": "topop.Application.Dtos.AddVideoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "topop.API.Controllers.Imp.VideoController",
+    "Method": "GetById",
+    "RelativePath": "api/Video/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "topop.Application.Dtos.GetVideoDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "topop.API.Controllers.Imp.VideoController",
+    "Method": "Update",
+    "RelativePath": "api/Video/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "videoDTO",
+        "Type": "topop.Application.Dtos.UpdateVideoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "topop.API.Controllers.Imp.VideoController",
+    "Method": "Delete",
+    "RelativePath": "api/Video/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
